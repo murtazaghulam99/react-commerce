@@ -1,6 +1,6 @@
 # E-Commerce Website
 
-A Ecommerce Website made with React.js Framework.
+An e-commerce website made with React.js Framework.
 
 ## Demo
 
@@ -8,25 +8,21 @@ https://reactjs-ecommerce-app.vercel.app/
 
 ## Features
 
-- Easy to integrate with Backend
+- Easy to integrate with the Backend
 - Fully Responsive
-
-## Screenshots
-
-![App Screenshot](https://i.ibb.co/fQ293tm/image.png)
 
 ## Run Locally
 
 Clone the project
 
 ```bash
-  git clone https://github.com/ghulammurtaza/React_E-Commerce
+  git clone https://github.com/murtazaghulam99/react-commerce
 ```
 
 Go to the project directory
 
 ```bash
-  cd React_E-Commerce
+  cd react-commerce
 ```
 
 Install dependencies
@@ -51,8 +47,4 @@ Start the server
 ## Contributing
 
 Contributions are always welcome!
-Just raise an issue, we will discuss it.
-
-## Feedback
-
-If you have any feedback, please reach out to me [here](https://sghulammurtaza.github.io/#contact)
+Just raise an issue, and we will discuss it.
